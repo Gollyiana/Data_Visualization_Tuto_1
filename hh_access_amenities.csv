@@ -1,0 +1,695 @@
+date,state,district,piped_water,sanitation,electricity
+1/1/2016,Johor,All Districts,99.9,99.99,100
+1/1/2019,Johor,All Districts,99.9,99.9,100
+1/1/2022,Johor,All Districts,99.6,100,100
+1/1/2024,Johor,All Districts,99.8,100,100
+1/1/2016,Johor,Batu Pahat,99.9,100,100
+1/1/2019,Johor,Batu Pahat,100,100,100
+1/1/2022,Johor,Batu Pahat,100,100,100
+1/1/2024,Johor,Batu Pahat,100,100,100
+1/1/2016,Johor,Johor Bahru,100,100,100
+1/1/2019,Johor,Johor Bahru,100,100,100
+1/1/2022,Johor,Johor Bahru,100,100,100
+1/1/2024,Johor,Johor Bahru,99.99,100,100
+1/1/2016,Johor,Kluang,99.7,100,99.1
+1/1/2019,Johor,Kluang,100,100,100
+1/1/2022,Johor,Kluang,99.7,100,100
+1/1/2024,Johor,Kluang,98.73,100,100
+1/1/2016,Johor,Kota Tinggi,98.9,100,100
+1/1/2019,Johor,Kota Tinggi,98.8,99,100
+1/1/2022,Johor,Kota Tinggi,100,99.85,100
+1/1/2024,Johor,Kota Tinggi,99.83,100,100
+1/1/2016,Johor,Kulai,100,100,100
+1/1/2019,Johor,Kulai,100,100,100
+1/1/2022,Johor,Kulai,100,100,100
+1/1/2024,Johor,Kulai,100,100,100
+1/1/2016,Johor,Mersing,99.5,100,100
+1/1/2019,Johor,Mersing,98.3,100,100
+1/1/2022,Johor,Mersing,83.5,100,100
+1/1/2024,Johor,Mersing,95.39,100,100
+1/1/2016,Johor,Muar,100,100,100
+1/1/2019,Johor,Muar,99.5,100,100
+1/1/2022,Johor,Muar,100,100,100
+1/1/2024,Johor,Muar,100,100,100
+1/1/2016,Johor,Pontian,100,100,100
+1/1/2019,Johor,Pontian,100,100,100
+1/1/2022,Johor,Pontian,100,100,100
+1/1/2024,Johor,Pontian,100,100,100
+1/1/2016,Johor,Segamat,100,100,100
+1/1/2019,Johor,Segamat,100,100,100
+1/1/2022,Johor,Segamat,98.7,100,100
+1/1/2024,Johor,Segamat,99.54,100,100
+1/1/2016,Johor,Tangkak,100,100,100
+1/1/2019,Johor,Tangkak,99.8,100,100
+1/1/2022,Johor,Tangkak,100,100,100
+1/1/2024,Johor,Tangkak,100,100,100
+1/1/2016,Kedah,All Districts,98.7,99.98,100
+1/1/2019,Kedah,All Districts,99.5,100,100
+1/1/2022,Kedah,All Districts,99.6,100,100
+1/1/2024,Kedah,All Districts,99.6,100,100
+1/1/2016,Kedah,Baling,91,100,100
+1/1/2019,Kedah,Baling,96.9,100,100
+1/1/2022,Kedah,Baling,95.1,100,100
+1/1/2024,Kedah,Baling,96.01,100,100
+1/1/2016,Kedah,Bandar Baharu,99.3,100,100
+1/1/2019,Kedah,Bandar Baharu,100,100,100
+1/1/2022,Kedah,Bandar Baharu,100,100,100
+1/1/2024,Kedah,Bandar Baharu,100,100,100
+1/1/2016,Kedah,Kota Setar,100,100,100
+1/1/2019,Kedah,Kota Setar,100,100,100
+1/1/2022,Kedah,Kota Setar,100,100,100
+1/1/2024,Kedah,Kota Setar,100,100,100
+1/1/2016,Kedah,Kuala Muda,99.9,100,100
+1/1/2019,Kedah,Kuala Muda,99.9,100,100
+1/1/2022,Kedah,Kuala Muda,99.9,99.9,100
+1/1/2024,Kedah,Kuala Muda,99.9,100,100
+1/1/2016,Kedah,Kubang Pasu,99.2,100,100
+1/1/2019,Kedah,Kubang Pasu,99.8,100,100
+1/1/2022,Kedah,Kubang Pasu,99.9,100,100
+1/1/2024,Kedah,Kubang Pasu,100,100,100
+1/1/2016,Kedah,Kulim,99.9,100,100
+1/1/2019,Kedah,Kulim,100,100,100
+1/1/2022,Kedah,Kulim,100,100,100
+1/1/2024,Kedah,Kulim,100,100,100
+1/1/2016,Kedah,Langkawi,97.8,100,100
+1/1/2019,Kedah,Langkawi,99.5,100,100
+1/1/2022,Kedah,Langkawi,99.8,100,100
+1/1/2024,Kedah,Langkawi,100,100,100
+1/1/2016,Kedah,Padang Terap,100,99.4,100
+1/1/2019,Kedah,Padang Terap,100,100,100
+1/1/2022,Kedah,Padang Terap,100,100,100
+1/1/2024,Kedah,Padang Terap,100,100,100
+1/1/2016,Kedah,Pendang,99.4,100,100
+1/1/2019,Kedah,Pendang,100,100,100
+1/1/2022,Kedah,Pendang,100,100,100
+1/1/2024,Kedah,Pendang,100,100,100
+1/1/2016,Kedah,Pokok Sena,99.4,100,100
+1/1/2019,Kedah,Pokok Sena,100,100,100
+1/1/2022,Kedah,Pokok Sena,100,100,100
+1/1/2024,Kedah,Pokok Sena,100,100,100
+1/1/2016,Kedah,Sik,91.5,100,100
+1/1/2019,Kedah,Sik,91.9,100,100
+1/1/2022,Kedah,Sik,100,100,100
+1/1/2024,Kedah,Sik,98.28,100,100
+1/1/2016,Kedah,Yan,95.1,100,100
+1/1/2019,Kedah,Yan,100,100,100
+1/1/2022,Kedah,Yan,100,100,100
+1/1/2024,Kedah,Yan,100,100,100
+1/1/2016,Kelantan,All Districts,65.4,99.67,100
+1/1/2019,Kelantan,All Districts,67.9,100,100
+1/1/2022,Kelantan,All Districts,70.2,99.8,100
+1/1/2024,Kelantan,All Districts,72.1,100,100
+1/1/2016,Kelantan,Bachok,29.5,100,99.8
+1/1/2019,Kelantan,Bachok,42.3,100,100
+1/1/2022,Kelantan,Bachok,47.4,99.5,100
+1/1/2024,Kelantan,Bachok,44.53,100,100
+1/1/2016,Kelantan,Gua Musang,69.1,100,100
+1/1/2019,Kelantan,Gua Musang,90.7,100,100
+1/1/2022,Kelantan,Gua Musang,89.5,100,100
+1/1/2024,Kelantan,Gua Musang,94.78,100,100
+1/1/2016,Kelantan,Jeli,75.7,100,100
+1/1/2019,Kelantan,Jeli,77.4,100,100
+1/1/2022,Kelantan,Jeli,80.8,100,100
+1/1/2024,Kelantan,Jeli,70.59,100,100
+1/1/2016,Kelantan,Kecil Lojing,44.4,,100
+1/1/2019,Kelantan,Kecil Lojing,44.4,100,100
+1/1/2022,Kelantan,Kecil Lojing,87.5,100,100
+1/1/2024,Kelantan,Kecil Lojing,93.33,100,100
+1/1/2016,Kelantan,Kota Bharu,72,99.7,100
+1/1/2019,Kelantan,Kota Bharu,64.3,100,100
+1/1/2022,Kelantan,Kota Bharu,68.4,99.6,100
+1/1/2024,Kelantan,Kota Bharu,68.76,100,100
+1/1/2016,Kelantan,Kuala Krai,71.9,100,100
+1/1/2019,Kelantan,Kuala Krai,83.3,100,100
+1/1/2022,Kelantan,Kuala Krai,70,100,100
+1/1/2024,Kelantan,Kuala Krai,98.41,100,100
+1/1/2016,Kelantan,Machang,68.7,98.6,100
+1/1/2019,Kelantan,Machang,70.1,99.7,100
+1/1/2022,Kelantan,Machang,68,100,100
+1/1/2024,Kelantan,Machang,72.9,100,100
+1/1/2016,Kelantan,Pasir Mas,67,99.7,99.8
+1/1/2019,Kelantan,Pasir Mas,71.9,100,100
+1/1/2022,Kelantan,Pasir Mas,80.3,100,100
+1/1/2024,Kelantan,Pasir Mas,71.58,100,100
+1/1/2016,Kelantan,Pasir Puteh,52,99.8,100
+1/1/2019,Kelantan,Pasir Puteh,65.8,100,100
+1/1/2022,Kelantan,Pasir Puteh,68.5,99.8,100
+1/1/2024,Kelantan,Pasir Puteh,77.55,100,100
+1/1/2016,Kelantan,Tanah Merah,67.8,100,100
+1/1/2019,Kelantan,Tanah Merah,74.8,100,100
+1/1/2022,Kelantan,Tanah Merah,70.7,99.8,100
+1/1/2024,Kelantan,Tanah Merah,80.23,100,100
+1/1/2016,Kelantan,Tumpat,62.6,99.2,100
+1/1/2019,Kelantan,Tumpat,66.9,100,100
+1/1/2022,Kelantan,Tumpat,70.8,100,100
+1/1/2024,Kelantan,Tumpat,67.73,100,100
+1/1/2016,Melaka,All Districts,100,99.92,100
+1/1/2019,Melaka,All Districts,100,100,100
+1/1/2022,Melaka,All Districts,100,100,100
+1/1/2024,Melaka,All Districts,100,100,100
+1/1/2016,Melaka,Alor Gajah,100,99.8,100
+1/1/2019,Melaka,Alor Gajah,100,100,100
+1/1/2022,Melaka,Alor Gajah,100,100,100
+1/1/2024,Melaka,Alor Gajah,100,100,100
+1/1/2016,Melaka,Jasin,100,100,100
+1/1/2019,Melaka,Jasin,100,100,100
+1/1/2022,Melaka,Jasin,100,100,100
+1/1/2024,Melaka,Jasin,100,100,100
+1/1/2016,Melaka,Melaka Tengah,100,99.9,100
+1/1/2019,Melaka,Melaka Tengah,100,100,100
+1/1/2022,Melaka,Melaka Tengah,100,100,100
+1/1/2024,Melaka,Melaka Tengah,100,100,100
+1/1/2016,Negeri Sembilan,All Districts,99.9,99.98,100
+1/1/2019,Negeri Sembilan,All Districts,99.9,100,100
+1/1/2022,Negeri Sembilan,All Districts,99.8,100,100
+1/1/2024,Negeri Sembilan,All Districts,99.9,100,100
+1/1/2016,Negeri Sembilan,Jelebu,99.2,100,100
+1/1/2019,Negeri Sembilan,Jelebu,100,100,100
+1/1/2022,Negeri Sembilan,Jelebu,95.1,100,100
+1/1/2024,Negeri Sembilan,Jelebu,96.33,100,100
+1/1/2016,Negeri Sembilan,Jempol,100,100,100
+1/1/2019,Negeri Sembilan,Jempol,100,100,100
+1/1/2022,Negeri Sembilan,Jempol,100,100,100
+1/1/2024,Negeri Sembilan,Jempol,100,100,100
+1/1/2016,Negeri Sembilan,Kuala Pilah,100,100,100
+1/1/2019,Negeri Sembilan,Kuala Pilah,100,100,100
+1/1/2022,Negeri Sembilan,Kuala Pilah,100,100,100
+1/1/2024,Negeri Sembilan,Kuala Pilah,100,100,100
+1/1/2016,Negeri Sembilan,Port Dickson,100,100,100
+1/1/2019,Negeri Sembilan,Port Dickson,100,100,100
+1/1/2022,Negeri Sembilan,Port Dickson,100,100,100
+1/1/2024,Negeri Sembilan,Port Dickson,100,100,100
+1/1/2016,Negeri Sembilan,Rembau,100,100,100
+1/1/2019,Negeri Sembilan,Rembau,98.5,100,100
+1/1/2022,Negeri Sembilan,Rembau,100,100,100
+1/1/2024,Negeri Sembilan,Rembau,100,100,100
+1/1/2016,Negeri Sembilan,Seremban,99.8,100,100
+1/1/2019,Negeri Sembilan,Seremban,99.9,100,100
+1/1/2022,Negeri Sembilan,Seremban,100,100,100
+1/1/2024,Negeri Sembilan,Seremban,100,100,100
+1/1/2016,Negeri Sembilan,Tampin,100,100,100
+1/1/2019,Negeri Sembilan,Tampin,100,100,100
+1/1/2022,Negeri Sembilan,Tampin,100,100,100
+1/1/2024,Negeri Sembilan,Tampin,100,100,100
+1/1/2016,Pahang,All Districts,97.8,99.75,100
+1/1/2019,Pahang,All Districts,97.9,99.98,100
+1/1/2022,Pahang,All Districts,98.3,99.4,99.51
+1/1/2024,Pahang,All Districts,98.8,99.9,100
+1/1/2016,Pahang,Bentong,94.9,100,100
+1/1/2019,Pahang,Bentong,99.5,100,100
+1/1/2022,Pahang,Bentong,98.9,100,100
+1/1/2024,Pahang,Bentong,91.83,100,100
+1/1/2016,Pahang,Bera,94.9,96,100
+1/1/2019,Pahang,Bera,99.4,100,100
+1/1/2022,Pahang,Bera,98.7,100,100
+1/1/2024,Pahang,Bera,100,99.4,100
+1/1/2016,Pahang,Cameron Highlands,93.6,100,100
+1/1/2019,Pahang,Cameron Highlands,96.1,100,100
+1/1/2022,Pahang,Cameron Highlands,94.5,100,100
+1/1/2024,Pahang,Cameron Highlands,90.82,100,100
+1/1/2016,Pahang,Jerantut,99.2,100,100
+1/1/2019,Pahang,Jerantut,100,100,100
+1/1/2022,Pahang,Jerantut,97.4,100,100
+1/1/2024,Pahang,Jerantut,100,100,100
+1/1/2016,Pahang,Kuantan,98.8,100,100
+1/1/2019,Pahang,Kuantan,99.2,100,100
+1/1/2022,Pahang,Kuantan,99.9,100,100
+1/1/2024,Pahang,Kuantan,100,100,100
+1/1/2016,Pahang,Lipis,99.2,100,100
+1/1/2019,Pahang,Lipis,98,100,100
+1/1/2022,Pahang,Lipis,84.3,91.1,93.5
+1/1/2024,Pahang,Lipis,91.35,98.9,100
+1/1/2016,Pahang,Maran,96.3,100,100
+1/1/2019,Pahang,Maran,97.3,99.7,100
+1/1/2022,Pahang,Maran,100,100,100
+1/1/2024,Pahang,Maran,100,100,100
+1/1/2016,Pahang,Pekan,96.7,99.6,100
+1/1/2019,Pahang,Pekan,92.5,100,100
+1/1/2022,Pahang,Pekan,96.7,100,100
+1/1/2024,Pahang,Pekan,99.51,100,100
+1/1/2016,Pahang,Raub,100,100,100
+1/1/2019,Pahang,Raub,90,100,100
+1/1/2022,Pahang,Raub,100,100,100
+1/1/2024,Pahang,Raub,100,100,100
+1/1/2016,Pahang,Rompin,95.3,99.6,100
+1/1/2019,Pahang,Rompin,96.3,100,100
+1/1/2022,Pahang,Rompin,97,98.3,97.8
+1/1/2024,Pahang,Rompin,100,100,100
+1/1/2016,Pahang,Temerloh,99.6,100,100
+1/1/2019,Pahang,Temerloh,100,100,100
+1/1/2022,Pahang,Temerloh,100,100,100
+1/1/2024,Pahang,Temerloh,99.64,100,100
+1/1/2016,Perak,All Districts,99.4,99.97,100
+1/1/2019,Perak,All Districts,99.4,99.99,100
+1/1/2022,Perak,All Districts,99.2,100,100
+1/1/2024,Perak,All Districts,99.4,100,100
+1/1/2016,Perak,Bagan Datuk,,,100
+1/1/2019,Perak,Bagan Datuk,100,100,100
+1/1/2022,Perak,Bagan Datuk,100,100,100
+1/1/2024,Perak,Bagan Datuk,100,100,100
+1/1/2016,Perak,Batang Padang,100,99.8,100
+1/1/2019,Perak,Batang Padang,99.4,100,100
+1/1/2022,Perak,Batang Padang,94.9,100,100
+1/1/2024,Perak,Batang Padang,100,100,100
+1/1/2016,Perak,Hilir Perak,100,100,100
+1/1/2019,Perak,Hilir Perak,99.6,100,100
+1/1/2022,Perak,Hilir Perak,100,100,100
+1/1/2024,Perak,Hilir Perak,100,100,100
+1/1/2016,Perak,Hulu Perak,97,99.5,100
+1/1/2019,Perak,Hulu Perak,96.6,99.7,99.7
+1/1/2022,Perak,Hulu Perak,95.4,100,100
+1/1/2024,Perak,Hulu Perak,100,100,100
+1/1/2016,Perak,Kampar,100,100,100
+1/1/2019,Perak,Kampar,99.9,100,100
+1/1/2022,Perak,Kampar,98.7,100,100
+1/1/2024,Perak,Kampar,99.67,100,100
+1/1/2016,Perak,Kerian,100,100,100
+1/1/2019,Perak,Kerian,100,100,100
+1/1/2022,Perak,Kerian,100,100,100
+1/1/2024,Perak,Kerian,100,100,100
+1/1/2016,Perak,Kinta,100,100,100
+1/1/2019,Perak,Kinta,99.8,100,100
+1/1/2022,Perak,Kinta,100,100,100
+1/1/2024,Perak,Kinta,100,100,100
+1/1/2016,Perak,Kuala Kangsar,100,100,100
+1/1/2019,Perak,Kuala Kangsar,99.7,100,100
+1/1/2022,Perak,Kuala Kangsar,99.6,100,100
+1/1/2024,Perak,Kuala Kangsar,100,100,100
+1/1/2016,Perak,Larut dan Matang,97,100,100
+1/1/2019,Perak,Larut dan Matang,97.8,100,99.8
+1/1/2022,Perak,Larut dan Matang,97.6,100,100
+1/1/2024,Perak,Larut dan Matang,95.25,100,100
+1/1/2016,Perak,Manjung,100,100,100
+1/1/2019,Perak,Manjung,99.9,100,100
+1/1/2022,Perak,Manjung,100,100,100
+1/1/2024,Perak,Manjung,100,100,100
+1/1/2016,Perak,Muallim,,,100
+1/1/2019,Perak,Muallim,100,100,100
+1/1/2022,Perak,Muallim,100,100,100
+1/1/2024,Perak,Muallim,100,100,100
+1/1/2016,Perak,Perak Tengah,100,100,100
+1/1/2019,Perak,Perak Tengah,99.8,100,100
+1/1/2022,Perak,Perak Tengah,100,100,100
+1/1/2024,Perak,Perak Tengah,100,100,100
+1/1/2016,Perak,Selama,,,100
+1/1/2019,Perak,Selama,,,100
+1/1/2022,Perak,Selama,96.8,100,100
+1/1/2024,Perak,Selama,91.67,100,100
+1/1/2016,Perlis,Perlis,99.6,100,100
+1/1/2019,Perlis,Perlis,99.6,100,100
+1/1/2022,Perlis,Perlis,100,100,100
+1/1/2024,Perlis,Perlis,100,100,100
+1/1/2016,Pulau Pinang,All Districts,99.9,100,100
+1/1/2019,Pulau Pinang,All Districts,99.9,99.95,100
+1/1/2022,Pulau Pinang,All Districts,100,100,100
+1/1/2024,Pulau Pinang,All Districts,100,100,100
+1/1/2016,Pulau Pinang,Barat Daya,100,100,100
+1/1/2019,Pulau Pinang,Barat Daya,100,100,100
+1/1/2022,Pulau Pinang,Barat Daya,100,100,100
+1/1/2024,Pulau Pinang,Barat Daya,100,100,100
+1/1/2016,Pulau Pinang,Seberang Perai Selatan,99.7,100,100
+1/1/2019,Pulau Pinang,Seberang Perai Selatan,100,100,100
+1/1/2022,Pulau Pinang,Seberang Perai Selatan,100,100,100
+1/1/2024,Pulau Pinang,Seberang Perai Selatan,100,100,100
+1/1/2016,Pulau Pinang,Seberang Perai Tengah,99.7,100,100
+1/1/2019,Pulau Pinang,Seberang Perai Tengah,99.9,100,99.9
+1/1/2022,Pulau Pinang,Seberang Perai Tengah,99.9,100,99.9
+1/1/2024,Pulau Pinang,Seberang Perai Tengah,100,100,100
+1/1/2016,Pulau Pinang,Seberang Perai Utara,99.9,100,100
+1/1/2019,Pulau Pinang,Seberang Perai Utara,99.8,100,100
+1/1/2022,Pulau Pinang,Seberang Perai Utara,100,100,100
+1/1/2024,Pulau Pinang,Seberang Perai Utara,100,100,100
+1/1/2016,Pulau Pinang,Timur Laut,100,100,100
+1/1/2019,Pulau Pinang,Timur Laut,100,99.9,100
+1/1/2022,Pulau Pinang,Timur Laut,100,100,100
+1/1/2024,Pulau Pinang,Timur Laut,100,100,100
+1/1/2016,Sabah,All Districts,83.4,96.14,99.5
+1/1/2019,Sabah,All Districts,84.7,95.61,99.7
+1/1/2022,Sabah,All Districts,87.6,98.8,99.03
+1/1/2024,Sabah,All Districts,89.2,99.2,99.2
+1/1/2016,Sabah,Beaufort,82.8,99,99.7
+1/1/2019,Sabah,Beaufort,89.5,99.6,99.6
+1/1/2022,Sabah,Beaufort,89.8,100,99.7
+1/1/2024,Sabah,Beaufort,94.14,100,100
+1/1/2016,Sabah,Beluran,50.6,87.7,91.3
+1/1/2019,Sabah,Beluran,55.5,81.2,95.7
+1/1/2022,Sabah,Beluran,63.6,95.7,83.4
+1/1/2024,Sabah,Beluran,79.55,100,82.95
+1/1/2016,Sabah,Kalabakan,,,
+1/1/2019,Sabah,Kalabakan,92,,
+1/1/2022,Sabah,Kalabakan,,100,
+1/1/2024,Sabah,Kalabakan,84.52,100,96.43
+1/1/2016,Sabah,Keningau,76,99.1,99.1
+1/1/2019,Sabah,Keningau,75.8,98.2,100
+1/1/2022,Sabah,Keningau,84.8,99.78,99.8
+1/1/2024,Sabah,Keningau,86.26,99.66,99.32
+1/1/2016,Sabah,Kinabatangan,63.9,96.7,99.5
+1/1/2019,Sabah,Kinabatangan,76.6,91.6,100
+1/1/2022,Sabah,Kinabatangan,78.7,100,91.1
+1/1/2024,Sabah,Kinabatangan,75.33,100,100
+1/1/2016,Sabah,Kota Belud,56.9,94.3,100
+1/1/2019,Sabah,Kota Belud,71.4,98.7,99.7
+1/1/2022,Sabah,Kota Belud,72.7,100,100
+1/1/2024,Sabah,Kota Belud,80.33,99.45,100
+1/1/2016,Sabah,Kota Kinabalu,93.1,98.2,100
+1/1/2019,Sabah,Kota Kinabalu,93.5,99.1,99.9
+1/1/2022,Sabah,Kota Kinabalu,93.9,99.62,99.8
+1/1/2024,Sabah,Kota Kinabalu,96.19,99.01,100
+1/1/2016,Sabah,Kota Marudu,64.3,92.1,98.5
+1/1/2019,Sabah,Kota Marudu,76.5,80.9,99.3
+1/1/2022,Sabah,Kota Marudu,81.6,99.14,99.6
+1/1/2024,Sabah,Kota Marudu,74.74,98.89,100
+1/1/2016,Sabah,Kuala Penyu,73.3,100,100
+1/1/2019,Sabah,Kuala Penyu,86.7,99.2,100
+1/1/2022,Sabah,Kuala Penyu,97.1,100,100
+1/1/2024,Sabah,Kuala Penyu,100,100,100
+1/1/2016,Sabah,Kudat,79,85.2,98.1
+1/1/2019,Sabah,Kudat,85.6,79.2,98.8
+1/1/2022,Sabah,Kudat,91,100,96.4
+1/1/2024,Sabah,Kudat,95.31,99.41,100
+1/1/2016,Sabah,Kunak,81.3,96.6,100
+1/1/2019,Sabah,Kunak,93.8,97.5,100
+1/1/2022,Sabah,Kunak,95.5,95.9,97
+1/1/2024,Sabah,Kunak,89.08,96.86,100
+1/1/2016,Sabah,Lahad Datu,79.6,92.1,100
+1/1/2019,Sabah,Lahad Datu,75.4,92.1,99.9
+1/1/2022,Sabah,Lahad Datu,90.5,93.78,99.5
+1/1/2024,Sabah,Lahad Datu,89.66,99.06,99.75
+1/1/2024,Sabah,Membakut,91.15,,100
+1/1/2016,Sabah,Nabawan,62.5,100,100
+1/1/2019,Sabah,Nabawan,50,97.8,100
+1/1/2022,Sabah,Nabawan,68.8,100,95.8
+1/1/2024,Sabah,Nabawan,63.49,100,100
+1/1/2016,Sabah,Papar,92.7,98.6,100
+1/1/2019,Sabah,Papar,97.3,99.9,100
+1/1/2022,Sabah,Papar,95.6,100,99.8
+1/1/2024,Sabah,Papar,97.7,100,100
+1/1/2016,Sabah,Penampang,96.5,100,100
+1/1/2019,Sabah,Penampang,96.9,100,100
+1/1/2022,Sabah,Penampang,97,100,99.3
+1/1/2024,Sabah,Penampang,98.01,100,100
+1/1/2016,Sabah,Pitas,55.9,88.8,98.6
+1/1/2019,Sabah,Pitas,65.9,74.6,98.6
+1/1/2022,Sabah,Pitas,76.6,100,98.2
+1/1/2024,Sabah,Pitas,60.87,98.91,86.96
+1/1/2016,Sabah,Putatan,96.1,98.7,100
+1/1/2019,Sabah,Putatan,98.5,100,100
+1/1/2022,Sabah,Putatan,96.8,100,100
+1/1/2024,Sabah,Putatan,93.79,100,100
+1/1/2016,Sabah,Ranau,37.8,99.2,99.1
+1/1/2019,Sabah,Ranau,35.3,94.8,100
+1/1/2022,Sabah,Ranau,47.4,99.04,94.7
+1/1/2024,Sabah,Ranau,46.48,100,95.86
+1/1/2016,Sabah,Sandakan,94.5,93.8,100
+1/1/2019,Sabah,Sandakan,96,95,99.9
+1/1/2022,Sabah,Sandakan,97,99.93,99.5
+1/1/2024,Sabah,Sandakan,96.74,100,100
+1/1/2016,Sabah,Semporna,73.8,88.4,99.7
+1/1/2019,Sabah,Semporna,90.3,87.2,99.7
+1/1/2022,Sabah,Semporna,71.8,84.15,100
+1/1/2024,Sabah,Semporna,70.19,91.29,98.91
+1/1/2016,Sabah,Sipitang,94.9,98.3,100
+1/1/2019,Sabah,Sipitang,98,99.5,100
+1/1/2022,Sabah,Sipitang,93.7,99.37,100
+1/1/2024,Sabah,Sipitang,95.59,100,95.63
+1/1/2016,Sabah,Tambunan,56,100,100
+1/1/2019,Sabah,Tambunan,68.2,97,100
+1/1/2022,Sabah,Tambunan,74.4,99.25,100
+1/1/2024,Sabah,Tambunan,72.22,98.61,100
+1/1/2016,Sabah,Tawau,95.7,98,99.9
+1/1/2019,Sabah,Tawau,98.6,99.1,99.9
+1/1/2022,Sabah,Tawau,98.4,99.07,99.9
+1/1/2024,Sabah,Tawau,99.17,98.73,100
+1/1/2016,Sabah,Telupid,,,
+1/1/2019,Sabah,Telupid,72.1,90.7,100
+1/1/2022,Sabah,Telupid,80,100,100
+1/1/2024,Sabah,Telupid,80.49,100,100
+1/1/2016,Sabah,Tenom,58.7,99.5,100
+1/1/2019,Sabah,Tenom,54.3,100,100
+1/1/2022,Sabah,Tenom,50.9,100,100
+1/1/2024,Sabah,Tenom,63.12,100,100
+1/1/2016,Sabah,Tongod,48.6,95.2,93.2
+1/1/2019,Sabah,Tongod,33.6,79.5,91
+1/1/2022,Sabah,Tongod,53.4,99.15,95.8
+1/1/2024,Sabah,Tongod,53.39,100,100
+1/1/2016,Sabah,Tuaran,80.6,98,99.6
+1/1/2019,Sabah,Tuaran,78.3,98.6,100
+1/1/2022,Sabah,Tuaran,76.5,100,100
+1/1/2024,Sabah,Tuaran,88.4,99.67,100
+1/1/2016,Sarawak,All Districts,86,99.66,99.6
+1/1/2019,Sarawak,All Districts,86.4,99.73,99.8
+1/1/2022,Sarawak,All Districts,90,100,97.8
+1/1/2024,Sarawak,All Districts,92.7,100,99.1
+1/1/2016,Sarawak,Asajaya,93.9,100,100
+1/1/2019,Sarawak,Asajaya,90.6,100,99.4
+1/1/2022,Sarawak,Asajaya,100,100,100
+1/1/2024,Sarawak,Asajaya,100,100,100
+1/1/2016,Sarawak,Bau,83.5,100,100
+1/1/2019,Sarawak,Bau,90.8,99.6,99.6
+1/1/2022,Sarawak,Bau,92.1,100,100
+1/1/2024,Sarawak,Bau,94.52,100,100
+1/1/2016,Sarawak,Belaga,62.5,99.1,98.2
+1/1/2019,Sarawak,Belaga,53.7,100,99.1
+1/1/2022,Sarawak,Belaga,48.5,100,91.8
+1/1/2024,Sarawak,Belaga,81.82,100,90.91
+1/1/2016,Sarawak,Beluru,,,
+1/1/2019,Sarawak,Beluru,79.4,100,100
+1/1/2022,Sarawak,Beluru,90.5,100,100
+1/1/2024,Sarawak,Beluru,100,100,100
+1/1/2016,Sarawak,Betong,86.1,99.6,99.6
+1/1/2019,Sarawak,Betong,83.4,100,99.6
+1/1/2022,Sarawak,Betong,95.8,100,100
+1/1/2024,Sarawak,Betong,95.65,100,100
+1/1/2016,Sarawak,Bintulu,86.1,100,99.7
+1/1/2019,Sarawak,Bintulu,97.5,99.9,99.9
+1/1/2022,Sarawak,Bintulu,96.8,100,98.1
+1/1/2024,Sarawak,Bintulu,95.11,100,99.47
+1/1/2016,Sarawak,Bukit Mabong,,,
+1/1/2019,Sarawak,Bukit Mabong,3.7,100,100
+1/1/2022,Sarawak,Bukit Mabong,21.6,100,40.2
+1/1/2024,Sarawak,Bukit Mabong,25,100,54.17
+1/1/2016,Sarawak,Dalat,77.7,95.2,100
+1/1/2019,Sarawak,Dalat,73,96,100
+1/1/2022,Sarawak,Dalat,89.7,100,97.2
+1/1/2024,Sarawak,Dalat,98.55,100,98.55
+1/1/2016,Sarawak,Daro,59.7,97.8,100
+1/1/2019,Sarawak,Daro,80.6,99.5,100
+1/1/2022,Sarawak,Daro,83,100,97.5
+1/1/2024,Sarawak,Daro,71.43,100,96.43
+1/1/2024,Sarawak,Gedong,72.37,,100
+1/1/2016,Sarawak,Julau,40.6,97.9,100
+1/1/2019,Sarawak,Julau,58.5,100,100
+1/1/2022,Sarawak,Julau,46.8,100,93.6
+1/1/2024,Sarawak,Julau,51.9,100,100
+1/1/2016,Sarawak,Kabong,,,
+1/1/2019,Sarawak,Kabong,85.1,100,100
+1/1/2022,Sarawak,Kabong,82.8,100,100
+1/1/2024,Sarawak,Kabong,81.82,100,100
+1/1/2016,Sarawak,Kanowit,84.3,100,100
+1/1/2019,Sarawak,Kanowit,71.9,100,99.1
+1/1/2022,Sarawak,Kanowit,77.8,100,93.7
+1/1/2024,Sarawak,Kanowit,100,100,100
+1/1/2016,Sarawak,Kapit,40.3,100,99.2
+1/1/2019,Sarawak,Kapit,62.8,100,100
+1/1/2022,Sarawak,Kapit,57.3,100,88.8
+1/1/2024,Sarawak,Kapit,61.84,100,86.64
+1/1/2016,Sarawak,Kuching,97.9,99.8,99.9
+1/1/2019,Sarawak,Kuching,98.2,99.9,100
+1/1/2022,Sarawak,Kuching,99.5,100,100
+1/1/2024,Sarawak,Kuching,99.4,100,100
+1/1/2016,Sarawak,Lawas,65.9,99.5,100
+1/1/2019,Sarawak,Lawas,76.8,100,100
+1/1/2022,Sarawak,Lawas,65,100,100
+1/1/2024,Sarawak,Lawas,75.28,100,96.63
+1/1/2016,Sarawak,Limbang,81.9,98.8,98.3
+1/1/2019,Sarawak,Limbang,88.4,98.6,98.4
+1/1/2022,Sarawak,Limbang,87.6,100,98.4
+1/1/2024,Sarawak,Limbang,90.58,100,100
+1/1/2024,Sarawak,Lingga,100,,100
+1/1/2016,Sarawak,Lubok Antu,82.8,100,96.5
+1/1/2019,Sarawak,Lubok Antu,71.5,100,100
+1/1/2022,Sarawak,Lubok Antu,90.1,100,95.1
+1/1/2024,Sarawak,Lubok Antu,88.41,100,100
+1/1/2016,Sarawak,Lundu,45.2,100,100
+1/1/2019,Sarawak,Lundu,51,100,100
+1/1/2022,Sarawak,Lundu,63.6,100,100
+1/1/2024,Sarawak,Lundu,63.44,100,100
+1/1/2016,Sarawak,Maradong,87.1,100,100
+1/1/2019,Sarawak,Maradong,94.8,99.1,99.4
+1/1/2022,Sarawak,Maradong,96.7,100,99.5
+1/1/2024,Sarawak,Maradong,96.3,99.38,100
+1/1/2016,Sarawak,Marudi,31.8,99.4,98.3
+1/1/2019,Sarawak,Marudi,46.5,99.5,99.5
+1/1/2022,Sarawak,Marudi,47.4,99.52,95.7
+1/1/2024,Sarawak,Marudi,74.05,100,94.94
+1/1/2016,Sarawak,Matu,84.2,86.3,100
+1/1/2019,Sarawak,Matu,74.4,90.5,99.3
+1/1/2022,Sarawak,Matu,87.7,100,93.8
+1/1/2024,Sarawak,Matu,92.05,100,100
+1/1/2016,Sarawak,Miri,94.8,99.9,99.8
+1/1/2019,Sarawak,Miri,99,99.9,99.7
+1/1/2022,Sarawak,Miri,98.5,99.91,96.3
+1/1/2024,Sarawak,Miri,99.38,100,99.91
+1/1/2016,Sarawak,Mukah,86.1,99,99
+1/1/2019,Sarawak,Mukah,84.8,100,99.6
+1/1/2022,Sarawak,Mukah,88.5,99.54,100
+1/1/2024,Sarawak,Mukah,96.07,100,100
+1/1/2016,Sarawak,Pakan,47.9,99,100
+1/1/2019,Sarawak,Pakan,60.9,99.1,100
+1/1/2022,Sarawak,Pakan,87.3,100,96.1
+1/1/2024,Sarawak,Pakan,90.91,100,100
+1/1/2024,Sarawak,Pantu,24.75,,100
+1/1/2016,Sarawak,Pusa,,,
+1/1/2019,Sarawak,Pusa,76.1,100,100
+1/1/2022,Sarawak,Pusa,74.2,100,95.7
+1/1/2024,Sarawak,Pusa,100,100,100
+1/1/2016,Sarawak,Samarahan,98.8,100,100
+1/1/2019,Sarawak,Samarahan,96.6,100,99.8
+1/1/2022,Sarawak,Samarahan,100,100,100
+1/1/2024,Sarawak,Samarahan,100,100,100
+1/1/2016,Sarawak,Saratok,68.9,99.6,99.6
+1/1/2019,Sarawak,Saratok,93.1,99.1,100
+1/1/2022,Sarawak,Saratok,98.3,100,100
+1/1/2024,Sarawak,Saratok,99.29,100,100
+1/1/2016,Sarawak,Sarikei,93.9,100,99.4
+1/1/2019,Sarawak,Sarikei,98.9,100,100
+1/1/2022,Sarawak,Sarikei,96.7,100,100
+1/1/2024,Sarawak,Sarikei,96.55,100,100
+1/1/2016,Sarawak,Sebauh,,,
+1/1/2019,Sarawak,Sebauh,41.4,100,100
+1/1/2022,Sarawak,Sebauh,68.7,100,100
+1/1/2024,Sarawak,Sebauh,59.42,100,98.55
+1/1/2024,Sarawak,Sebuyau,67.39,,100
+1/1/2016,Sarawak,Selangau,32.5,99.2,97.7
+1/1/2019,Sarawak,Selangau,38.1,100,98.9
+1/1/2022,Sarawak,Selangau,38.5,100,93.3
+1/1/2024,Sarawak,Selangau,31.31,98.99,95.96
+1/1/2016,Sarawak,Serian,74.4,100,100
+1/1/2019,Sarawak,Serian,79.8,99.4,99.4
+1/1/2022,Sarawak,Serian,86.2,100,99
+1/1/2024,Sarawak,Serian,87.93,100,100
+1/1/2016,Sarawak,Sibu,98.6,99.8,100
+1/1/2019,Sarawak,Sibu,97.9,99.9,100
+1/1/2022,Sarawak,Sibu,98.1,99.92,93.7
+1/1/2024,Sarawak,Sibu,99.21,100,100
+1/1/2024,Sarawak,Siburan,95.8,,100
+1/1/2016,Sarawak,Simunjan,61.8,99,100
+1/1/2019,Sarawak,Simunjan,57,100,99.5
+1/1/2022,Sarawak,Simunjan,70.5,100,100
+1/1/2024,Sarawak,Simunjan,87.5,100,100
+1/1/2016,Sarawak,Song,39.5,100,98.2
+1/1/2019,Sarawak,Song,22.4,100,100
+1/1/2022,Sarawak,Song,29.8,100,78.1
+1/1/2024,Sarawak,Song,47.89,100,81.69
+1/1/2016,Sarawak,Sri Aman,72.8,100,99.4
+1/1/2019,Sarawak,Sri Aman,81.6,98.9,99.6
+1/1/2022,Sarawak,Sri Aman,84.7,100,97.9
+1/1/2024,Sarawak,Sri Aman,97.17,100,100
+1/1/2016,Sarawak,Subis,,,
+1/1/2019,Sarawak,Subis,86.4,100,100
+1/1/2022,Sarawak,Subis,67.4,100,100
+1/1/2024,Sarawak,Subis,90.59,100,100
+1/1/2016,Sarawak,Tanjung Manis,,,
+1/1/2019,Sarawak,Tanjung Manis,81.7,100,100
+1/1/2022,Sarawak,Tanjung Manis,92.4,100,100
+1/1/2024,Sarawak,Tanjung Manis,89.74,100,100
+1/1/2016,Sarawak,Tatau,61.6,100,100
+1/1/2019,Sarawak,Tatau,50,100,100
+1/1/2022,Sarawak,Tatau,63.7,100,77.8
+1/1/2024,Sarawak,Tatau,62.34,100,87.01
+1/1/2016,Sarawak,Tebedu,,,
+1/1/2019,Sarawak,Tebedu,36.2,100,100
+1/1/2022,Sarawak,Tebedu,44.1,100,91.4
+1/1/2024,Sarawak,Tebedu,81.72,100,100
+1/1/2016,Sarawak,Telang Usan,,,
+1/1/2019,Sarawak,Telang Usan,32.1,100,100
+1/1/2022,Sarawak,Telang Usan,57.8,100,92.8
+1/1/2024,Sarawak,Telang Usan,57.5,100,93.75
+1/1/2016,Selangor,All Districts,100,100,100
+1/1/2019,Selangor,All Districts,100,100,100
+1/1/2022,Selangor,All Districts,100,100,100
+1/1/2024,Selangor,All Districts,100,100,100
+1/1/2016,Selangor,Gombak,100,100,100
+1/1/2019,Selangor,Gombak,100,100,100
+1/1/2022,Selangor,Gombak,100,100,100
+1/1/2024,Selangor,Gombak,99.97,100,100
+1/1/2016,Selangor,Hulu Langat,100,100,100
+1/1/2019,Selangor,Hulu Langat,100,100,100
+1/1/2022,Selangor,Hulu Langat,100,100,100
+1/1/2024,Selangor,Hulu Langat,100,100,100
+1/1/2016,Selangor,Hulu Selangor,100,100,100
+1/1/2019,Selangor,Hulu Selangor,100,100,100
+1/1/2022,Selangor,Hulu Selangor,100,100,100
+1/1/2024,Selangor,Hulu Selangor,100,100,100
+1/1/2016,Selangor,Klang,100,100,100
+1/1/2019,Selangor,Klang,100,100,100
+1/1/2022,Selangor,Klang,100,99.9,100
+1/1/2024,Selangor,Klang,100,100,100
+1/1/2016,Selangor,Kuala Langat,100,100,100
+1/1/2019,Selangor,Kuala Langat,100,100,100
+1/1/2022,Selangor,Kuala Langat,100,100,100
+1/1/2024,Selangor,Kuala Langat,100,100,100
+1/1/2016,Selangor,Kuala Selangor,100,100,100
+1/1/2019,Selangor,Kuala Selangor,100,100,100
+1/1/2022,Selangor,Kuala Selangor,100,100,100
+1/1/2024,Selangor,Kuala Selangor,100,100,100
+1/1/2016,Selangor,Petaling,100,100,100
+1/1/2019,Selangor,Petaling,100,100,100
+1/1/2022,Selangor,Petaling,100,100,100
+1/1/2024,Selangor,Petaling,100,100,100
+1/1/2016,Selangor,Sabak Bernam,100,100,100
+1/1/2019,Selangor,Sabak Bernam,100,100,100
+1/1/2022,Selangor,Sabak Bernam,100,100,100
+1/1/2024,Selangor,Sabak Bernam,100,100,100
+1/1/2016,Selangor,Sepang,100,100,100
+1/1/2019,Selangor,Sepang,100,100,100
+1/1/2022,Selangor,Sepang,100,100,100
+1/1/2024,Selangor,Sepang,100,100,100
+1/1/2016,Terengganu,All Districts,96,99.96,100
+1/1/2019,Terengganu,All Districts,96.2,100,100
+1/1/2022,Terengganu,All Districts,98.5,100,100
+1/1/2024,Terengganu,All Districts,99.9,100,100
+1/1/2016,Terengganu,Besut,95.5,100,100
+1/1/2019,Terengganu,Besut,83.4,100,100
+1/1/2022,Terengganu,Besut,93.8,100,100
+1/1/2024,Terengganu,Besut,100,100,100
+1/1/2016,Terengganu,Dungun,94.7,100,100
+1/1/2019,Terengganu,Dungun,98.1,100,100
+1/1/2022,Terengganu,Dungun,99.4,100,100
+1/1/2024,Terengganu,Dungun,98.99,100,100
+1/1/2016,Terengganu,Hulu Terengganu,98,100,100
+1/1/2019,Terengganu,Hulu Terengganu,99.2,100,100
+1/1/2022,Terengganu,Hulu Terengganu,99.4,100,100
+1/1/2024,Terengganu,Hulu Terengganu,100,100,100
+1/1/2016,Terengganu,Kemaman,99.7,99.8,100
+1/1/2019,Terengganu,Kemaman,99.8,100,100
+1/1/2022,Terengganu,Kemaman,100,100,100
+1/1/2024,Terengganu,Kemaman,100,100,100
+1/1/2016,Terengganu,Kuala Nerus,,,
+1/1/2019,Terengganu,Kuala Nerus,96.2,100,100
+1/1/2022,Terengganu,Kuala Nerus,99.4,100,100
+1/1/2024,Terengganu,Kuala Nerus,100,100,100
+1/1/2016,Terengganu,Kuala Terengganu,95.7,100,100
+1/1/2019,Terengganu,Kuala Terengganu,97.9,100,100
+1/1/2022,Terengganu,Kuala Terengganu,98.6,100,100
+1/1/2024,Terengganu,Kuala Terengganu,100,100,100
+1/1/2016,Terengganu,Marang,94.4,100,100
+1/1/2019,Terengganu,Marang,97.3,100,100
+1/1/2022,Terengganu,Marang,99.4,100,100
+1/1/2024,Terengganu,Marang,100,100,100
+1/1/2016,Terengganu,Setiu,89.1,100,100
+1/1/2019,Terengganu,Setiu,98.5,100,100
+1/1/2022,Terengganu,Setiu,97.2,100,100
+1/1/2024,Terengganu,Setiu,100,100,100
+1/1/2016,W.P. Kuala Lumpur,W.P. Kuala Lumpur,100,100,100
+1/1/2019,W.P. Kuala Lumpur,W.P. Kuala Lumpur,100,100,100
+1/1/2022,W.P. Kuala Lumpur,W.P. Kuala Lumpur,100,100,100
+1/1/2024,W.P. Kuala Lumpur,W.P. Kuala Lumpur,100,100,100
+1/1/2016,W.P. Labuan,W.P. Labuan,98.5,99.6,100
+1/1/2019,W.P. Labuan,W.P. Labuan,100,99.3,100
+1/1/2022,W.P. Labuan,W.P. Labuan,100,100,100
+1/1/2024,W.P. Labuan,W.P. Labuan,100,100,100
+1/1/2016,W.P. Putrajaya,W.P. Putrajaya,100,100,100
+1/1/2019,W.P. Putrajaya,W.P. Putrajaya,100,100,100
+1/1/2022,W.P. Putrajaya,W.P. Putrajaya,100,100,100
+1/1/2024,W.P. Putrajaya,W.P. Putrajaya,100,100,100
