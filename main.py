@@ -16,7 +16,7 @@ st.markdown("Individual Assignment — Dataset from DSOM (2019–2024)")
 # =========================================================
 # VISUALIZATION 2: Choropleth Geospatial Map (Objective 1)
 # =========================================================
-st.header("1. Visualization 2: Median Household Income by State (2024)")
+st.header("1. Median Household Income by State (2024)")
 st.markdown("**Objective 1:** *To analyze economic inequality across states and assess household wealth distribution across Malaysia.*")
 
 df_inc_2024 = df_income[df_income["date"].astype(str).str.contains("2024")].copy()
@@ -88,7 +88,7 @@ st.markdown("---")
 # =========================================================
 # VISUALIZATION 4: Grouped Bar Chart (Objective 2)
 # =========================================================
-st.header("2. Visualization 4: Infrastructure Completion Comparison (2024)")
+st.header("2. Infrastructure Completion Comparison (2024)")
 st.markdown("**Objective 2:** *To evaluate regional accessibility of essential public utilities across states to guide targeted federal budget allocation.*")
 
 df_amen_2024 = df_amenities[
@@ -131,7 +131,7 @@ st.markdown("---")
 # =========================================================
 # VISUALIZATION 5: Scatter Plot with Regression (Objective 3)
 # =========================================================
-st.header("3. Visualization 5: Marriage Rate vs. Median Household Income (2019–2024)")
+st.header("3. Marriage Rate vs. Median Household Income (2019–2024)")
 st.markdown("**Objective 3:** *To explore the correlation between macroeconomic conditions (median income) and demographic behaviors (marriage rates) over time.*")
 
 df_marr_grouped = df_marriages.groupby(["state", "date"], as_index=False)["rate"].mean()
