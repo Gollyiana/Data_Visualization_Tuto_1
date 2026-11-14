@@ -11,7 +11,7 @@ df_amenities = pd.read_csv("hh_access_amenities_cleaned.csv")
 df_marriages = pd.read_csv("marriages_state_CLEANED.csv")
 
 st.title("Malaysia Socioeconomic, Infrastructure & Demographic Analysis")
-st.markdown("Individual Assignment — Visualizations 2, 4, and 5 (2019–2024)")
+st.markdown("Individual Assignment — Dataset from DSOM (2019–2024)")
 
 # =========================================================
 # VISUALIZATION 2: Choropleth Geospatial Map (Objective 1)
